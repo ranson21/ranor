@@ -19,3 +19,9 @@
 [submodule "services/core"]
 	path = services/core
 	url = git@github.com:ranson21/ranor-core
+[submodule "pkgs/core"]
+	path = pkgs/core
+	url = git@github.com:ranson21/ranor-core
+[submodule "pkgs/common"]
+	path = pkgs/common
+	url = git@github.com:ranson21/ranor-common
