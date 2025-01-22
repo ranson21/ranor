@@ -25,3 +25,9 @@
 [submodule "pkgs/common"]
 	path = pkgs/common
 	url = git@github.com:ranson21/ranor-common
+[submodule "assets/lib/common"]
+	path = assets/lib/common
+	url = git@github.com:ranson21/ranor-common
+[submodule "assets/lib/core"]
+	path = assets/lib/core
+	url = git@github.com:ranson21/ranor-core
