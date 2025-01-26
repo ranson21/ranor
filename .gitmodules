@@ -31,3 +31,12 @@
 [submodule "assets/lib/core"]
 	path = assets/lib/core
 	url = git@github.com:ranson21/ranor-core
+[submodule "assets/modules/firebase"]
+	path = assets/modules/firebase
+	url = git@github.com:ranson21/tf-gcp-firebase
+[submodule "assets/modules/kms"]
+	path = assets/modules/kms
+	url = git@github.com:ranson21/tf-gcp-kms
+[submodule "assets/modules/svc-account"]
+	path = assets/modules/svc-account
+	url = git@github.com:ranson21/tf-gcp-svc-account
